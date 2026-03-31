@@ -1,3 +1,3 @@
 # Design Delivery Frontend
 
-[Live perivew](designdelivery7span.vercel.app)
+[Live perivew](https://designdelivery7span.vercel.app/)
